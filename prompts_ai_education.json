@@ -1,0 +1,77 @@
+[
+    {
+        "title": "Critically Analyze AI Outputs Using an AI Chatbot",
+        "prompt": "You are a writing professor with expertise in critically analyzing AI-generated content to form meaningful distinctions between AI and human-generated text. Your task is to guide my 12th grade English students to use critical thinking skills to analyze and evaluate the AI-generated content in the attached file. Ask questions, one at a time, about the following topics:",
+        "source": "https://www.aiforeducation.io/prompts/critically-analyze-ai-outputs-using-an-ai-chatbot"
+    },
+    {
+        "title": "Generate SMART Goals with an AI Chatbot",
+        "prompt": "You are an expert speech language pathologist, highly skilled in assessing and treating a wide range of speech and language issues in students. Your task is to write a SMART goal, that delineates specific, measurable, achievable, relevant, and time-bound parameters, for articulation for accurately producing the /s/ sounds in all positions of words for my second grade student.",
+        "source": "https://www.aiforeducation.io/prompts/smart-goal-generation"
+    },
+    {
+        "title": "Break Down Goals Into Objectives with an AI Chatbot",
+        "prompt": "You are an expert teacher skilled in developing measurable, short-term objectives derived from broader learning goals. Help me write a list of individual objectives to meet the following broad goal: by the end of the current academic semester, students will solve two-step equations in mathematics. Students will be considered to have met the goal when they correctly solve at least 8 out of 10 two-step equations presented during math assessments.",
+        "source": "https://www.aiforeducation.io/prompts/break-down-goals-into-objectives"
+    },
+    {
+        "title": "Translate Instructions for ENL/EL Students Using an AI Chatbot",
+        "prompt": "You are an expert English as New Language instructor, skilled in expertly translating classroom instructions to students of various language backgrounds so they successfully complete academic assignments. Your task is to act as a 5th-grade teacher and translate the instructions pasted below in double quotes into Spanish that is developmentally appropriate for a 5th-grade native Armenian speaker to help them better understand what they are expected to do to complete the assignment.",
+        "source": "https://www.aiforeducation.io/prompts/ell-instructions-translator"
+    },
+    {
+        "title": "Create a Language Practice Partner Using an AI Chatbot",
+        "prompt": "For this interaction, you will take on the persona of a high school student from Genoa, Italy. I will ask you a series of questions in Italian, and your task is to respond in a conversational way in Italian. You are to act as my conversational partner as I practice my ability to type/speak this language.",
+        "source": "https://www.aiforeducation.io/prompts/language-learning-practice-partner"
+    },
+    {
+        "title": "Create Research Project Ideas Using an AI Chatbot",
+        "prompt": "You are an expert teacher and instructional designer, skilled at generating creative project ideas for your students that effectively contribute to their classroom learning. Your task is to generate 12-15 research project ideas for my 12th grade economics students learning about supply and demand. The ideas should be age appropriate and specific, for example referencing a particular market segment, product/service, digital good/service, sustainable product, emerging economy, government, and/or country\u2019s global supply chain.",
+        "source": "https://www.aiforeducation.io/prompts/research-project-ideas"
+    },
+    {
+        "title": "Simplify a Complex Task with \u201cExplain It to Me Like\u2026\u201d with an AI Chatbot",
+        "prompt": "You are an expert teacher with excellent communication and interpersonal skills, particularly skilled in distilling and reframing complicated topics for specific audiences. Your task is to explain the concept of refraction of light in water in simple terms, so that my 5th grade science class can understand why their straws look bent in their water glasses.",
+        "source": "https://www.aiforeducation.io/prompts/explain-it-to-me-like"
+    },
+    {
+        "title": "Help Students Study with an AI Chatbot",
+        "prompt": "I\u2019m a conscientious 9th grade biology student skilled in creating detailed study resources based on my organized class notes, that effectively help me achieve academic success. I am preparing for an upcoming multiple choice unit test on vertebrates. Below are the notes I\u2019ve taken for the test. Your task is to generate a practice test, based on my notes below, to help me prepare.",
+        "source": "https://www.aiforeducation.io/prompts/studying-help"
+    },
+    {
+        "title": "Create Flashcard Content with an AI Chatbot",
+        "prompt": "You are a diligent 9th grade Biology student, skilled in creating excellent study materials that help you achieve academic success. Your task is to define the following 10 terms: mitosis, meiosis, prophase, chromatid, metaphase, anaphase, interphase, eukaryote, telophase, cytokinesis. Format the terms and definitions so that I can easily use them to create flashcards.",
+        "source": "https://www.aiforeducation.io/prompts/flashcards"
+    },
+    {
+        "title": "Create College Essay Topic Ideas Using an AI Chatbot",
+        "prompt": "I am a junior high school student preparing to apply to college. Your task is to brainstorm 10 topics for me to write my college essay on as part of the Common Application. The essay should be specific, like about a particular experience, and reveal something personal, like what students value, how they think, what their strengths are, or a particular part of their background. Essays should be thoughtful, creative, simple, and meaningful.",
+        "source": "https://www.aiforeducation.io/prompts/college-essay-ideas"
+    },
+    {
+        "title": "Summarize Any Text Using an AI Chatbot",
+        "prompt": "You are an expert student with superb comprehension and communication skills, skilled in reading, understanding, and summarizing the main points of large sections of dense texts. The following text is from my 7th grade IT class and is about building websites. Your task is to summarize the text, providing bullet points for the main ideas, steps, and vocabulary.",
+        "source": "https://www.aiforeducation.io/prompts/summarize-text"
+    },
+    {
+        "title": "Create a Time Travel Guide with an AI Chatbot",
+        "prompt": "You are an expert English teacher, skilled at crafting imaginative creative writing assignments that engage your students and advance their academic skills. Pretend you are a time travel guide, visiting the Renaissance period. Your task is to list, and provide any necessary information about, the best events, sights, or people to experience/talk to during that time. Include at least 5 items in this list. Then, use this information to craft 2 thoughtful creative writing assignments for 10th grade English students.",
+        "source": "https://www.aiforeducation.io/prompts/time-travel"
+    },
+    {
+        "title": "Translate Text to Emojis with an AI Chatbot",
+        "prompt": "You are an expert emoji user, with exceptional knowledge of all emojis and a nuanced understanding of how to use them. Your task is to translate the following 5 sentences I have written into emojis. Make sure to stay as close as you can to the exact words/meaning/length of the sentences, while using only emojis. The sentences are: 1. Hello, I'm so happy to be talking to you. 2. What is the weather outside? 3. What are your favorite video games? 4. I am a student and I love learning. 5. My favorite foods are pizza, ice cream, and cookies.",
+        "source": "https://www.aiforeducation.io/prompts/emoji-translator"
+    },
+    {
+        "title": "Use This Celebrity Head Prompt With Students to Teach How an AI Chatbot Works",
+        "prompt": "No prompt found",
+        "source": "https://www.aiforeducation.io/prompts/celebrity-heads-game"
+    },
+    {
+        "title": "Help With Model UN/Model Congress Drafts Using an AI Chatbot",
+        "prompt": "You are an expert delegate in high school Model UN, skilled in researching and persuasively writing and debating current world events from any assigned country. Your task is to generate ideas for the \u201cpossible solutions\u201d section of a position paper on the war in Ukraine from the point of view of Japan. Include specific plans Japan might like the UN to undertake to address the war, plans Japan would like Member States to undertake in their own countries, and an explanation for why these ideas would work. Only include information for the \u201cpossible solutions\u201d section.",
+        "source": "https://www.aiforeducation.io/prompts/model-un-model-congress"
+    }
+]
