@@ -1,6 +1,15 @@
 import requests
 import json
 
+# We would like to acknowledge and thank that the Fabric team that opened up this data set.
+# Freely distributed in https://github.com/danielmiessler/fabric/
+# Please check their project out and support the initiative - https://github.com/danielmiessler/fabric/blob/main/README.md
+
+
+# This scraper was built with help of PromptBros.ai
+# you can find and use it freely at https://promptbros.ai/agent/cltg5mos80007tpmyzbinuniu?chat=oDr3Iywk6csujhyga9j0cbuuz
+
+
 # Function to scrape content from a raw GitHub URL
 def scrape_system_md(url, pattern_name):
     response = requests.get(url)
